@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="code">
+    <module_version install_time="1523021775095" last="true" origin="installer" specification_version="1.0">
+        <file crc="3449278243" name="config/Modules/code.xml"/>
+        <file crc="3006038339" name="modules/code.jar"/>
+    </module_version>
+</module>

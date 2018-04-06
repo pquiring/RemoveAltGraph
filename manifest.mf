@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: code
+OpenIDE-Module-Install: code/Installer.class
+OpenIDE-Module-Localizing-Bundle: code/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
