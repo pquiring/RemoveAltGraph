@@ -5,7 +5,8 @@ See Java bug : https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8194873
 Also see : https://en.wikipedia.org/wiki/AltGr_key
 Download build/code.nbm and install in Netbeans Plugins.
   Tools -> Plugins -> Downloaded -> Add Plugins...
-  
+To build : ant nbm
+
 To fix this bug in your Java programs add this function:
 
   import java.awt.*;
